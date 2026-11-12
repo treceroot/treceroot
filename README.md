@@ -1,10 +1,12 @@
 # AZ
 
-I work in finance. Programming has always been more of a side interest than my actual background.
+I work in finance. No formal programming background, just a lifelong curiosity for building things beyond the numbers.
 
-Lately, I've been spending a lot of time with Claude Code, experimenting with local LLMs and building things I find useful or simply interesting.
+Lately, I've been exploring Claude Code, experimenting with local LLMs, diving into web design, and turning ideas into real projects — some useful, others built simply for the joy of creating.
 
-This is where I put them.
+Just curiosity, AI, and the drive to build.
+
+This is where I experiment, create, and bring ideas to life.
 
 ---
 
