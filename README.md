@@ -1,4 +1,4 @@
-#AZ
+# AZ
 
 I work in finance. Programming has always been more of a side interest than my actual background.
 
